@@ -1,0 +1,27 @@
+header {
+    font-size: 30px;
+    font-weight: bold;
+    background-color: rgb(148, 33, 33);
+    color: cornsilk;
+    text-align: center;
+}
+.box1 {
+    max-height: 200px;
+    background-color: rgb(67, 67, 180);
+    color: darkgrey;
+}
+h3 {
+    font-size: 23px;
+    text-decoration: underline;
+    margin: 30px;
+}
+ul {
+    font-size: 17px;
+
+}
+img {
+    max-width: 150px;
+    position: relative;
+    left: 1090px;
+    top: -190px;
+}
