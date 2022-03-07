@@ -1,40 +1,57 @@
 header {
     font-size: 30px;
     font-weight: bold;
-    background-color: rgb(190, 46, 46);
+    /* background-color: rgb(190, 46, 46); */
+    background: linear-gradient(to right, rgb(190, 46, 46), rgb(73, 28, 28));
     color: white;
-    text-align: center;
+    text-align: center;   
 }
 
 .box1 {
     max-height: 200px;
-    background-color: black;
+    /*  background-color: black; */
+    background: linear-gradient(to bottom, black, rgb(82, 82, 82));
     color: rgb(255, 255, 255);
+    box-shadow: 0 0 30px rgb(36, 36, 36);
+    border-radius: 10px;
+    font-family: 'Libre Baskerville', serif;
 }
 
 .box2{
     height: 200px;
-    background-color: rgb(10, 10, 82);
+    background: linear-gradient(to bottom, rgb(10, 10, 82), rgb(178, 166, 218));
     color: white;
+    box-shadow: 0 0 30px rgb(36, 36, 36);
+    border-radius: 10px;
+    font-family: 'Libre Baskerville', serif;
 }
 
 .box3{
     height: 150px;
-    background-color: rgb(121, 35, 121);
+    background: linear-gradient( to bottom, rgb(121, 35, 121), pink);
     color: white;
+    box-shadow: 0 0 30px rgb(36, 36, 36);
+    border-radius: 10px;
+    font-family: 'Libre Baskerville', serif;
 
 }
 
 .box4{
     height: 200px;
-    background-color: green;
+    background: linear-gradient(to bottom, green, rgb(149, 194, 149));
     color: white;
+    box-shadow: 0 0 30px rgb(36, 36, 36);
+    border-radius: 10px;
+    font-family: 'Libre Baskerville', serif;
 
 }
 
 .box5{
-    background-color: rgb(5, 121, 121);
+    background:linear-gradient(to bottom,rgb(5, 121, 121),rgb(34, 194, 194));  
     color: white;
+    box-shadow: 0 0 30px rgb(36, 36, 36);
+    border-radius: 10px;
+    font-family: 'Libre Baskerville', serif;
 }
 
 h3 {
